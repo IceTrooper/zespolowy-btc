@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZespolowyBTC", "ZespolowyBTC.csproj", "{A3D2E749-EB30-4953-AC9A-DB80B27A87C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D2E749-EB30-4953-AC9A-DB80B27A87C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D2E749-EB30-4953-AC9A-DB80B27A87C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D2E749-EB30-4953-AC9A-DB80B27A87C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D2E749-EB30-4953-AC9A-DB80B27A87C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5945D6-2A99-4AAC-A045-4ABF7C5E15CF}
+	EndGlobalSection
+EndGlobal
