@@ -1,0 +1,2 @@
+# zespolowy-btc
+Projekt zespołowy
