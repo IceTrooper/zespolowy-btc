@@ -10,7 +10,11 @@ namespace ZespolowyBTC
         {
             Console.WriteLine("Hello World!");
 
-            // 
+            TestReadWriteBMP();
+        }
+
+        static void TestReadWriteBMP()
+        {
             Bitmap bitmap = (Bitmap)Image.FromFile(@"D:\Repos\zespolowy-btc\TestImages\camera256.bmp");
 
             bitmap.Save(@"D:\Repos\zespolowy-btc\TestImages\_czyDziala.bmp", ImageFormat.Bmp);
@@ -30,8 +34,7 @@ namespace ZespolowyBTC
             gBmp.Dispose();
             bmp.Save(@"D:\Repos\zespolowy-btc\TestImages\_testowyObrazek.bmp", ImageFormat.Bmp);
 
-
-            //Bitmap.LockBits()
+            // Bitmap.LockBits()
         }
     }
 }
