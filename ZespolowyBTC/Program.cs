@@ -10,7 +10,9 @@ namespace ZespolowyBTC
         {
             Console.WriteLine("Hello World!");
 
-            TestReadWriteBMP();
+            //TestReadWriteBMP();
+
+            BTCAlgorithm.Prototype(4);
         }
 
         static void TestReadWriteBMP()
